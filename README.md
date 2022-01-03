@@ -15,3 +15,23 @@ course of data visualization from Lead Dell
 
 - Quantitative variables: positions and magnitudes;
 - Qualitative variables: color or forms;
+
+
+### Class 2
+
+- Visualizing categorical data: quantities;
+- Visualizing categorical data: proportions;
+
+
+### Class 3
+
+- Visualizing distributions of quantitative data;
+- Visualizing correlations between quantitative variables;
+- Visualizing temporal series;
+
+
+### Class 4
+
+- Visualizing distributions of quantitative variables among categoric variables;
+- Visualizing peer to peer relationships between variables;
+
